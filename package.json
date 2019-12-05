@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/edison-cy-yang/iss_spotter#readme",
   "dependencies": {
-    "request": "^2.88.0"
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.8"
   }
 }
